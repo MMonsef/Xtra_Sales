@@ -1,0 +1,426 @@
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.csprojAssemblyReference.cache
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Main.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_CustomersSuppliers.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_CustSupList.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Master.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.XtraForm1.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.exe.licenses
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\Presentation Layer.exe
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\Presentation Layer.pdb
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\Data Access Layer.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\Data Access Layer.pdb
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\Data Access Layer.dll.config
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.csproj.CopyComplete
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.exe
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.pdb
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Company.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Products.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_ProductsCategory.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_ProductsList.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Stores.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_StoresList.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_TreasuryList.resources
+E:\Users\source\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Treasurys.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\Presentation Layer.exe
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\Presentation Layer.pdb
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\Data Access Layer.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Data.v19.2.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\System.Data.SqlClient.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\TableDependency.SqlClient.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Images.v19.2.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\Data Access Layer.pdb
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\Data Access Layer.dll.config
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Data.v19.2.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.csprojAssemblyReference.cache
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Company.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_CustomersSuppliers.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_CustSupList.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Invoices.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Main.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Master.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Products.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_ProductsCategory.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_ProductsList.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Stores.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_StoresList.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_TreasuryList.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Treasurys.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.exe.licenses
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.csproj.CopyComplete
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.exe
+E:\Users\source\repos\C# sharp\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.pdb
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\Presentation Layer.exe
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\Presentation Layer.pdb
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\Data Access Layer.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\Data Access Layer.pdb
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\Data Access Layer.dll.config
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.csprojAssemblyReference.cache
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Company.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_CustomersSuppliers.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_CustSupList.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Invoices.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Main.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Master.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Products.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_ProductsCategory.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_ProductsList.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Stores.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_StoresList.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_TreasuryList.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Treasurys.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.exe.licenses
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.csproj.CopyComplete
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.exe
+C:\Users\MONCEF\source\repos\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.pdb
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\Presentation Layer.exe
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\Presentation Layer.pdb
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\TableDependency.SqlClient.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Office.v19.2.Core.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Images.v19.2.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\DevExpress.Office.v19.2.Core.xml
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.csprojAssemblyReference.cache
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Company.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_CustomersSuppliers.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_CustSupList.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Invoices.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Main.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Master.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Products.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_ProductsCategory.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_ProductsList.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Stores.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_StoresList.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_TreasuryList.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Frm_Treasurys.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.exe.licenses
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.csproj.CopyComplete
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.exe
+C:\Users\MONCEF\source\repos\Xtra Sales\Xtra Sales Managment System\Presentation Layer\obj\Debug\Presentation Layer.pdb
